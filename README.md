@@ -112,7 +112,7 @@ You can chat with this system! Enjoy:)
 おいしい、テレビで。
 ```
 
-#LICENCE
+# LICENCE
 The license of the used data set follows the original.
 
 使用したデータセットのライセンスはオリジナルに従います。
